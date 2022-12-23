@@ -40,7 +40,7 @@ if __name__ == '__main__':
       
       elif command[0] == 'sort':
         sortList(input_list)
-      
+       
       elif command[0] == 'pop':
         popElement(input_list)
       
