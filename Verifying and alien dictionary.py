@@ -3,7 +3,7 @@ class Solution:
 
         #conditions
         #true - a[i] < b[i] => break
-        #false - a[i] > b[i], len(a) > len(b) => return False
+        #false - a[i] > b[i], len(a) > len(b) => return False 
 
         order_map = {}
 
